@@ -192,6 +192,7 @@ Sure! Let's break down the difference between **Orchestration** and **Choreograp
 
 ### **1. Orchestration**
 Orchestration is like a **central conductor** in a symphony. A central service or orchestrator controls the entire workflow and tells each service what to do in a specific order.
+<img width="1846" height="1340" alt="image" src="https://github.com/user-attachments/assets/3132a706-63b6-4b97-9239-e872dd0b4e64" />
 
 #### Steps in **Orchestration**:
 1. **Central Controller (Orchestrator)**: A central service or component controls the flow of events or tasks and makes decisions. 
