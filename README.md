@@ -184,6 +184,9 @@ The **Saga Pattern** ensures data consistency across multiple services through a
 1. **Choreography (Event-Driven)**
 2. **Orchestration (Centralized Controller)**
 
+   <img width="1812" height="1340" alt="image" src="https://github.com/user-attachments/assets/9b50e95d-1c59-413d-8435-2d0913d10def" />
+
+
 
 Sure! Let's break down the difference between **Orchestration** and **Choreography** in terms of **steps**:
 
